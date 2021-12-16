@@ -1,2 +1,3 @@
 Este es el primer capítulo
-pimpam trucu trucu
+
+Este es el tercer capítulo
